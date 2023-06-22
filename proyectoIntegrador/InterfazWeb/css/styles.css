@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700&display=swap');
+
+header h2 {
+    font-family: 'Coiny', cursive; font-size: 56px;
+}
+
+header nav {
+    font-family: 'Roboto', sans-serif; font-size: 32px;
+}
+
+header hr {
+    height: 5px;
+    background-color: #FCEE21;
+}
+
+section {
+    font-family: 'Roboto', sans-serif;
+}
+
+#titulo1 {
+    font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 64px;
+}
+
+#titulo2 {
+    font-family: 'Coiny', cursive; font-size: 117.33px;
+}
+
+#subtitulo {
+    font-family: 'Roboto', sans-serif; font-size: 26.66px;
+    background-color: #FCEE21;
+}
+
+#presentacion {
+    font-family: 'Roboto', sans-serif; font-size: 32px;
+}
+
+#descripcion h3 {
+    font-family: 'Roboto', sans-serif; font-weight: black; font-size: 34.66px;
+    background-color: #FCEE21;
+}
+
+#descripcion p {
+    font-family: 'Roboto', sans-serif; font-size: 28px;
+}
+
+#servicios {
+    font-family: 'Roboto', sans-serif; font-size: 32px;
+}
+
+#servicios h3 {
+    font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 54.66px;
+}
+
+#ultimoItem {
+    font-weight:bold;
+    background-color: #FCEE21;
+}
+
+#consultas h3 {
+    font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 68px;
+    color: white;
+    background-color: black;
+}
+
+#consultas p {
+    font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 44px;
+    background-color: #FCEE21;
+}
+
+aside h3 {
+    font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 33.33px;
+    color: #808080;
+}
+
+footer {
+    background-color: #FCEE21;
+    font-family: 'Roboto', sans-serif; font-size: 28px;
+}
+
+#nombrePagina {
+    font-family: 'Coiny', cursive; font-size: 44px;
+}

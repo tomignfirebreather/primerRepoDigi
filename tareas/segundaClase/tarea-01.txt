@@ -1,0 +1,5 @@
+1. Crear un nuevo doc html.
+2. Utilizar títulos para nombres.
+3. Usar lista ordenadas o desordenadas, hobbies.
+4. Dos parrafos para comentar cosas que queremos hacer.
+5. Print de pantalla para subirlo al Drive.
