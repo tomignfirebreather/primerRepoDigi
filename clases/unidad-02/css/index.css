@@ -1,0 +1,52 @@
+/* el reseteo de CSS es sacar las reglas de CSS del navegador que vienen por default */
+
+/* selectro global */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* me da las medidas exactas de los elementos */
+    color: #ccc;
+    background-image: url(https://www.blogdelfotografo.com/wp-content/uploads/2021/12/Fondo_Negro_5.webp);
+    background-repeat: no-repeat;
+}
+
+#barraDeNavegacion {
+    text-align: end;
+    border-radius: 4px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#barraDeNavegacion a {
+    color:greenyellow;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.modelo {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #ccc;
+    color: rgb(0, 81, 255);
+}
+
+.parrafo {
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+    padding: 10px;
+}
